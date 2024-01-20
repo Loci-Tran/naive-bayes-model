@@ -28,4 +28,12 @@ The methodology is based on concepts from the book *Introduction to Machine Lear
 
 ---
 
-**Note:** This model is for educational purposes and should not be used as a substitute for professional medical advice.
+**Note:** This repo was a homework practice for ML class.
+
+```bibtex
+@author {
+  author       = {Loci Tran},
+  course       = {Introduction of Statistics and Machine Learning (II)},
+  year         = {2023},
+}
+```
